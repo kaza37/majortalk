@@ -1,1 +1,1 @@
-# majortalk
+# 학종톡
